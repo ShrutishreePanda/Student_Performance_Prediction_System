@@ -62,19 +62,19 @@ This project automates prediction to help institutions identify weak students ea
 📊 Output Screenshots
 
 -Dataset Preview
-![Dataset](screenshots/dataset.png)
+![Dataset](screenshots/dataset.PNG)
 
 -Model Accuracy Report
-![Accuracy](screenshots/Accuracy.png)
+![Accuracy](screenshots/Accuracy.PNG)
 
 -Study Hours vs Result
-![Graph1](screenshots/graph1.png)
+![Graph1](screenshots/graph1.PNG)
 
 -Attendance vs Result
-![Graph2](screenshots/graph2.png)
+![Graph2](screenshots/graph2.PNG)
 
 Final Prediction Output
-![Prediction](screenshots/Prediction.png)
+![Prediction](screenshots/Prediction.PNG)
 
 ---
 
